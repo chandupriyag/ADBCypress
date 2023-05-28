@@ -1,6 +1,7 @@
 /*
 Viewport simulation i.e. responsiveness of webpage testing
 i.e. checking the visibility / invisibility of elements based on browser width and height
+//cy.get("#new-header > div > div:nth-child(1) > div > div > nav.left-side-menu.menu-level-1-child > ul").should("be.visible")
 
 */
 describe('Topic01_Suite',() => {
